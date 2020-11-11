@@ -1,0 +1,105 @@
+ // Desafio.
+
+            // ExerciciosModulo2.js
+             
+            // 1º exercício
+
+         </script>
+           
+       <!--  <button class='botao' id='btnCriar' onClick="gerarQuadrado()">Gerar novo</button>
+          <div id="app">
+              <div class="box"  onmouseover="alteraCor()"></div>
+          </div> -->
+
+          <script>
+            
+     //       var btnCriar = document.querySelector('#btnCriar')
+    // btnCriar.style.color = '#fff'
+    // btnCriar.style.fontWeight = 'bold';
+    // btnCriar.style.backgroundColor = '#424242';
+    // btnCriar.style.border = 'solid #ddd';
+    // btnCriar.style.width = '200px';
+    // btnCriar.style.height = '40px';
+    //  btnCriar.style.marginLeft = '45%';
+
+    //  btnCriar.onclick = function gerarQuadrado() {
+    //    var boxElement = document.querySelector('.box');
+    //    boxElement.style.width = '180px';
+    //   boxElement.style.height = '180px';
+    //    boxElement.style.margin = '10px';
+    //    boxElement.style.backgroundColor = '#f00';
+           
+    //}
+
+   // 2º exercício
+   
+   // function alteraCor() {
+   //         var boxElement = document.querySelector(".box");
+    //        boxElement.style.backgroundColor = getRandomColor();
+     //   }
+        
+      //  function getRandomColor() {
+      //     var letters = "0123456789ABCDEF";
+      //      var color = "#";
+      //      for (var i = 0; i < 6; i++) {
+      //          color += letters[Math.floor(Math.random() * 16)];
+       //     }
+       //     return color;
+       // }
+        
+        // var newColor = getRandomColor(); // #E943F0
+ 
+       // 3º exercício
+
+       
+   //   function gerar(){
+   //  let nomes = ["Diego", "Gabriel", "Lucas"];
+   //  let lista = document.getElementById('lista');
+   //  for(var i = 0; i < nomes.length; i++){
+   //     let item = document.createElement('li');
+   //     item.appendChild(document.createTextNode(nomes[i]));
+   //     lista.appendChild(item);
+   // }
+//}
+</script>
+
+<!--<ul id="lista"></ul>
+<input type="button" onclick="gerar()" value="Clique"/>
+
+<br>
+
+
+<ul></ul>
+    <input type="text" name="nome" >
+    <button onclick="adicionar()">Adicionar</button>-->
+    
+<script>
+
+// 4º exercício
+
+//var listaElement = document.querySelector('ul');
+//var inputElement = document.querySelector('input');
+
+/* for(nome of nomes){
+    var liElment = document.createElement('li');
+    var textElement = document.createTextNode(nome);
+    liElment.appendChild(textElement);
+    listaElement.appendChild(liElment);
+} */
+
+//function addItem(texto){
+//    var liElment = document.createElement('li');
+//    var textElement = document.createTextNode(texto);
+    
+//    liElment.appendChild(textElement);
+//    listaElement.appendChild(liElment);
+//}
+
+//function adicionar(){
+//    addItem(inputElement.value);
+//    inputElement.value = ""; // limpa o campo imput
+//}
+
+//for(nome of nomes){
+//    addItem(nome);
+//}
