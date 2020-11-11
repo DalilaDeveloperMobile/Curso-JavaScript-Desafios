@@ -1,2 +1,2 @@
 # Curso Javascript: Desafios
-Curso Javascript: Introdução: Desafio, ExerciciosModulo1.js
+Curso Javascript com 4 Desafios. 
