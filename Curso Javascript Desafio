@@ -1,0 +1,89 @@
+ // Desafio.
+
+            // ExerciciosModulo1.js
+             
+            // 1º exercício
+            // Imprimir função.
+            
+            //  var endereco = {
+            //   rua: "Rua dos Pinheiros",
+            //   numero: 1293,
+            //   bairro: "Centro",
+            //   cidade: "São Paulo",
+            //   uf: "SP"
+            //};
+            
+            //console.log('O usuário mora em',(endereco.cidade),'/',(endereco.uf) , 'no bairro', (endereco.bairro) ,
+            // 'na rua','"',(endereco.rua),'"','com nº',(endereco.numero));
+
+            // 2º exercício
+            // Imprimir todos os pares na função.
+            
+            //function pares(x, y){
+            //    for (var i = x; i <= y; i++) { 
+            //      if (i % 2 === 0) {
+            //       console.log(i);
+            //    }
+            //  }
+            //};
+            //   pares(32, 321);
+
+            // 321 não é par, por isso Imprime 320.
+
+            // 3º exercício
+            // Com a Função, Imprimir no Array o parametro Java  
+
+            // function temHabilidade(skills) {
+                
+            //    var skills = 'Javascript';
+                  
+            //    if (skills.indexOf("Javascript")) {
+            //        Javascript = true;
+            //    } else {
+            //        Javascript = false;
+
+            //   }
+            // }
+            //   var skills = ["Javascript", "ReactJS", "React Native"];
+            //   temHabilidade(skills); // true ou false
+            //   console.log('Tem Habilidade em',  skills[0]);
+            //   console.log('Valor',  Javascript);
+            
+            // 4º exercício
+            // Função que mostra quão esperiente o Usuario é com if , else if. 
+            // Operadores logicos.
+              
+            //var Iniciante;
+            //var Intermediário;
+            //var Avançado;
+            //var JediMaster;
+
+            //function experiencia(anos) {
+
+            //if (anosEstudo >= 0 && anosEstudo <= 1 ) {
+            //    console.log('Iniciante');
+            //} else if(anosEstudo >=1 && anosEstudo <= 3){
+            //    console.log('Intermediário');
+            //} else if(anosEstudo >=3 && anosEstudo <= 6){
+            //    console.log('Avançado');
+            //} else if(anosEstudo >= 7){
+            //    console.log('Jedi Master');
+            //}
+                      
+             //}
+             //  var anosEstudo = 7;
+             //  experiencia(anosEstudo);
+             //  console.log(anosEstudo);
+              // De 0-1 ano: Iniciante
+              // De 1-3 anos: Intermediário
+              // De 3-6 anos: Avançado
+              // De 7 acima: Jedi Master
+
+             // 5º exercício
+             // Mostrar os valores do vetor;
+             
+             // var usuarios = [ { nome: "Diego",  habilidades: ["Javascript", "ReactJS", "Redux"]
+             // }, { nome: "Gabriel", habilidades: ["VueJS", "Ruby on Rails", "Elixir"] }];
+  
+             // console.log('O', usuarios[0].nome , 'possui as habilidades:', usuarios[0].habilidades[0],',', usuarios[0].habilidades[1] ,',', usuarios[0].habilidades[2]);
+             // console.log('O', usuarios[1].nome , 'possui as habilidades:' , usuarios[1].habilidades[0],',', usuarios[1].habilidades[1] ,',', usuarios[1].habilidades[2]);
